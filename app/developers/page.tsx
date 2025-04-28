@@ -21,7 +21,7 @@ export default function DevelopersPage() {
       name: "Ahsan Hassan",
       role: "Backend Developer",
       university: "S.R.M University",
-      department: "AI/ML Department",
+      department: "CSE - AI/ML Department",
       icon: Terminal,
       iconColor: "text-blue-400",
       iconBg: "bg-blue-900/50",
